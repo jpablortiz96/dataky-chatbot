@@ -1,0 +1,12 @@
+# Entornos y cachés
+.venv/
+__pycache__/
+*.pyc
+
+# Variables secretas
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
